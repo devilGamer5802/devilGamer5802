@@ -5,7 +5,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">ＨΛＲＳＨ  ΛＮＩＬ  ＴＵＴＩ</h1></summary>
-    <img src="20220924_184557.jpg" alt="Harsh Anil Tuti" width="50%"/>
+    <img src="20220924_184557.jpg" alt="Harsh Anil Tuti" height="20%" width="10%"/>
   </ul>
 </div>
 
