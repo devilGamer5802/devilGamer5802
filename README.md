@@ -179,7 +179,7 @@
 <br><br> 
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/harshaniltuti" target="_blank">
+  <a href="https://www.buymeacoffee.com/devilgamer5802" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" height="50" alt="Buy Me A Coffee" /> 
     
   </a>
