@@ -76,8 +76,7 @@
         <li>LSTM Neural Network for hourly temperature forecasting (R2 Score: 0.93).</li>
         <li>Uses Isolation Forest for anomaly detection in time-series data.</li>
         <li>Includes interactive visualizations for trends & forecasts.</li>
-        
-      </ul>
+        </ul>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">🌐 TorDirect</h3>
@@ -124,8 +123,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original-wordmark.svg" alt="Matplotlib" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow" width="40" height="40"/>
-        
-      </p>
+        </p>
     </td>
     <td valign="top" width="33%">
       <h4 align="center">Tools & Platforms</h4>
