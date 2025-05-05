@@ -76,6 +76,7 @@
         <li>LSTM Neural Network for hourly temperature forecasting (R2 Score: 0.93).</li>
         <li>Uses Isolation Forest for anomaly detection in time-series data.</li>
         <li>Includes interactive visualizations for trends & forecasts.</li>
+        <li><a href="https://github.com/devilGamer5802/AI-Climate-Monitoring-and-Mitigation-System">[View on GitHub]</a></li>
         </ul>
     </td>
     <td width="33%" valign="top">
@@ -135,8 +136,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="GCP" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" alt="Socket.IO" width="40" height="40"/>
-         <img src="https://cdn.worldvectorlogo.com/logos/render-logo.svg" alt="Render" width="40" height="40"/> 
-        
       </p>
     </td>
   </tr>
