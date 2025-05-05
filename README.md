@@ -32,11 +32,6 @@
   
 </p>
 
-<p align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=devilgamer5802&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</p>
-
 
 <h2 align="center">:: Status Report ::</h2>
 
@@ -171,11 +166,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilgamer5802&bg_color=0D1117&color=79ff97&line=FF0000&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
-<p align="center">
-  
-   <img src="https://github-profile-contribution-stats.vercel.app/api/?user=devilgamer5802&theme=radical&hide_border=true" alt="Contribution Snake"/>
-   
-</p>
 
 ---
 
