@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[YOUR_CUSTOM_ROG_BANNER_URL]" alt="Harsh Anil Tuti - ROG Inspired Banner" width="100%"/> 
+  <img src="Aqua Hoshino.png" alt="Harsh Anil Tuti - ROG Inspired Banner" width="100%"/> 
 </p>
 
 <div id="user-content-toc">
