@@ -172,7 +172,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/harshaniltuti" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>  
   <a href="https://twitter.com/harshtuti" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>  
-  <a href="https://stackoverflow.com/users/devilgamer5802" target="_blank"><img align="center" src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>  
+  <a href="https://stackoverflow.com/users/30454495/devilgamer5802" target="_blank"><img align="center" src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>  
   <a href="https://kaggle.com/HARSHANILTUTI" target="_blank"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>  
 </p>
 
