@@ -150,7 +150,7 @@
 <p align="center">
   🏅 <a href="[LINK_TO_META_ANDROID_CERT_IF_AVAILABLE]" target="_blank">Meta Android Developer Professional Certificate</a> (Coursera)<br>
   🏅 <a href="[LINK_TO_META_DB_CERT_IF_AVAILABLE]" target="_blank">Meta Database Engineer Professional Certificate</a> (Coursera)<br>
-  🏅 <a href="[LINK_TO_GENAI_CERT_IF_AVAILABLE]" target="_blank">Generative AI for Everyone</a> (Coursera)
+  🏅 <a href="https://coursera.org/share/952ecaad6c3a949fb9afff653f833dbf" target="_blank">Generative AI for Everyone</a> (Coursera)
 </p>
 
 
