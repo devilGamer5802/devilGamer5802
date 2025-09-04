@@ -1,53 +1,94 @@
 <p align="center">
-  <img src="IMG_20240628_002936.jpg" alt="Harsh Anil Tuti - Banner" width="100%"/>
+  <img src="IMG_20240628_002936.jpg" alt="Harsh Anil Tuti - ROG Inspired Banner" width="100%"/> 
 </p>
 
-<div align="center">
-<pre>
-<code>
-██╗  ██╗ █████╗ ██████╗  ███████╗██╗  ██╗    █████╗ ███╗   ██╗██╗██╗     ████████╗██╗   ██╗████████╗██╗
-██║  ██║██╔══██╗██╔══██╗██╔════╝██║  ██║   ██╔══██╗████╗  ██║██║██║     ╚══██╔══╝██║   ██║╚══██╔══╝██║
-███████║███████║██████╔╝███████╗███████║   ███████║██╔██╗ ██║██║██║        ██║   ██║   ██║   ██║   ██║
-██╔══██║██╔══██║██╔══██╗╚════██║██╔══██║   ██╔══██║██║╚██╗██║██║██║        ██║   ██║   ██║   ██║   ╚═╝
-██║  ██║██║  ██║██║  ██║███████║██║  ██║   ██║  ██║██║ ╚████║██║███████╗   ██║   ╚██████╔╝   ██║   ██╗
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝   ╚═╝    ╚═════╝    ╚═╝   ╚═╝
-</code>
-</pre>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">ＨΛＲＳＨ  ΛＮＩＬ  ＴＵＴＩ</h1></summary>
+    <img src="20220924_184557.jpg" alt="Harsh Anil Tuti" height="50%" width="30%"/>
+  </ul>
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=500&lines=INITIATING+SYSTEM+BOOT...;LOADING+MODULES%3A+Cloud+%26+ML;COMPILING+PROJECTS...;CONNECTION+ESTABLISHED." alt="Typing SVG">
+  <a href="https://github.com/devilgamer5802">
+    <img src="https://komarev.com/ghpvc/?username=devilgamer5802&label=PROFILE%20VIEWS&color=FF0000&style=for-the-badge" alt="Profile Views"/>
   </a>
+  
+</p>
+
+<p align="center">
+  <i>Third-year B.Tech Computer Science student @ <strong>BIT Mesra</strong> 🚀 | Passionate about building scalable applications & exploring Cloud/ML.<br>
+  Leveraging Java, Python, Kotlin & Cloud platforms (AWS/GCP) to solve complex problems.<br>
+  Finding the optimal path with Dijkstra... both in code and in reaching goals!</i> 
 </p>
 
 ---
 
-<h2 align="center">[ SYSTEM STATUS REPORT ]</h2>
-<table>
+
+<p align="center">
+  
+</p>
+
+<p align="center">
+  
+</p>
+
+
+<h2 align="center">:: Status Report ::</h2>
+
+<table align="center">
   <tr>
-    <td width="30%" align="center" valign="top">
-      <img src="self.jpg" alt="Harsh Anil Tuti" width="100%" style="border-radius: 10px;"/>
-      <br><br>
-      <p>
-        <a href="https://linkedin.com/in/harshaniltuti" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-        <a href="https://twitter.com/harshtuti" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>&nbsp;
-        <a href="mailto:harshaniltuti@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-      </p>
+    <td valign="top" width="100%">
+      <p>🎓 Currently a <strong>B.Tech Computer Science & Engineering</strong> student at <strong>Birla Institute of Technology, Mesra</strong> (Nov 2022 - Present).</p>
+      <p>💡 Strong foundation in <strong>Java, Python, C, Kotlin, SQL</strong> and practical experience with cloud platforms like <strong>AWS & GCP</strong>, databases (MySQL/Oracle), and methodologies like Agile/RAD.</p>
+      <p>🧠 Exploring the realms of <strong>Deep Learning / Machine Learning</strong> and building scalable applications.</p>
+      <p>🔭 <strong>Actively Developing:</strong> <a href="https://github.com/devilGamer5802/iCALC"><strong>iCalc</strong></a> - An advanced Kotlin calculator replicating iOS 18 Math Notes features with dynamic expression solving and real-time currency conversion.</p>
+      <p>👯 <strong>Open to Collaborate On:</strong> Foundational projects like <a href="https://github.com/devilGamer5802/Basic-C-Java-Programs">Basic-C-Java-Programs</a> or interesting full-stack/ML challenges.</p>
+      <p>🤝 <strong>Seeking Insights/Help With:</strong> Optimizing and enhancing <a href="https://github.com/devilGamer5802/TorDirect"><strong>TorDirect</strong></a> (Node.js/WebTorrent project).</p>
+      <p>👨‍💻 <strong>My Code Arsenal:</strong> All projects available <a href="https://github.com/devilGamer5802">here</a>.</p>
+      <p>📫 <strong>Engage Target:</strong> Let's connect! Reach out via <a href="mailto:harshaniltuti@gmail.com">harshaniltuti@gmail.com</a>.</p>
+      <p>⚡ <strong>System Anomaly (Fun Fact):</strong> This profile's genesis may involve peer pressure, but its evolution is pure passion!</p>
     </td>
-    <td width="70%" valign="top">
-      <h3><b>IDENTITY:</b> HARSH ANIL TUTI</h3>
+  </tr>
+</table>
+
+---
+
+
+<h2 align="center">:: Featured Missions (Projects) ::</h2>
+
+<table align="center" width="90%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">📱 iCALC</h3>
+      <p align="center">(Kotlin | Android | API Integration)</p>
       <ul>
-        <li><b>STATUS:</b> Final Year Undergraduate [B.Tech CSE]</li>
-        <li><b>LOCATION:</b> BIT Mesra, Ranchi, India</li>
-        <li><b>PRIMARY DIRECTIVE:</b> Architecting robust, full-stack applications that solve real-world problems.</li>
-        <li><b>CURRENT FOCUS:</b>
-            <ul>
-                <li>Cloud Computing & Scalable Infrastructure (AWS/GCP).</li>
-                <li>Machine Learning Model Development & Deployment.</li>
-                <li>Advanced Android Application Development.</li>
-            </ul>
-        </li>
+        <li>Advanced calculator replicating iOS 18's Math Notes.</li>
+        <li>Features dynamic expression solving & interactive input.</li>
+        <li>Integrates real-time currency conversion APIs.</li>
+        <li><em>Status: Ongoing Development</em></li>
+        <li><a href="https://github.com/devilGamer5802/iCALC">[View on GitHub]</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">☁️ AI Climate Monitoring</h3>
+      <p align="center">(Python | LSTM | Scikit-learn | TensorFlow/Keras)</p>
+      <ul>
+        <li>LSTM Neural Network for hourly temperature forecasting (R2 Score: 0.93).</li>
+        <li>Uses Isolation Forest for anomaly detection in time-series data.</li>
+        <li>Includes interactive visualizations for trends & forecasts.</li>
+        <li><a href="https://github.com/devilGamer5802/AI-Climate-Monitoring-and-Mitigation-System">[View on GitHub]</a></li>
+        </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🌐 TorDirect</h3>
+      <p align="center">(Node.js | Express | WebTorrent | Socket.IO | Render)</p>
+      <ul>
+        <li>Full-stack app for real-time torrent downloading/management.</li>
+        <li>Dynamic frontend (Vanilla JS, Socket.IO) for live status & actions.</li>
+        <li>Deployed on Render with persistent storage.</li>
+        <li><em>Status: Seeking Contributions/Improvements</em></li>
+        <li><a href="https://github.com/devilGamer5802/TorDirect">[View on GitHub]</a></li>
       </ul>
     </td>
   </tr>
@@ -55,106 +96,92 @@
 
 ---
 
-<h2 align="center">[ TECH ARSENAL ]</h2>
-<table width="100%">
+
+<h2 align="center">:: Tech Arsenal ::</h2>
+
+<table align="center" width="100%">
   <tr align="center">
-    <td>
-      <strong>Languages:</strong><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-      <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-      <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+    <td valign="top" width="33%">
+      <h4 align="center">Programming Languages</h4>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="Kotlin" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg" alt="SQL" width="40" height="40"/> 
+      </p>
     </td>
-    <td>
-      <strong>Frameworks & Libraries:</strong><br>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+    <td valign="top" width="33%">
+      <h4 align="center">Frameworks & Libraries</h4>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android SDK" width="40" height="40"/>
+        <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original-wordmark.svg" alt="Matplotlib" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow" width="40" height="40"/>
+        </p>
     </td>
-  </tr>
-  <tr align="center">
-    <td>
-      <strong>Cloud & Databases:</strong><br>
-      <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    </td>
-    <td>
-      <strong>Tools & Platforms:</strong><br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-      <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
+    <td valign="top" width="33%">
+      <h4 align="center">Tools & Platforms</h4>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="GCP" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" alt="Socket.IO" width="40" height="40"/>
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-<h2 align="center">[ ACTIVE MISSIONS ]</h2>
-<table width="100%">
-<tr valign="top">
-<td width="50%" style="padding: 10px;">
-  <h3 align="center">MISSION: iCALC</h3>
-  <hr>
-  <p>
-    <b>BRIEF:</b> Develop an advanced mobile calculator for Android, replicating iOS 18's Math Notes functionality with dynamic expression solving and live API integration for currency conversion.
-    <br><br>
-    <b>TECH DEPLOYED:</b>
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-  </p>
-  <p align="center"><b><a href="https://github.com/devilGamer5802/iCALC">[ LAUNCH MISSION ]</a></b></p>
-</td>
-<td width="50%" style="padding: 10px;">
-  <h3 align="center">MISSION: AI CLIMATE MONITOR</h3>
-  <hr>
-  <p>
-    <b>BRIEF:</b> Implement an LSTM Neural Network for hourly temperature forecasting (R2 Score: 0.93) and utilize Isolation Forest for anomaly detection in time-series climate data.
-    <br><br>
-    <b>TECH DEPLOYED:</b>
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  </p>
-  <p align="center"><b><a href="https://github.com/devilGamer5802/AI-Climate-Monitoring-and-Mitigation-System">[ LAUNCH MISSION ]</a></b></p>
-</td>
-</tr>
-<tr valign="top">
-<td width="50%" style="padding: 10px;">
-  <h3 align="center">MISSION: TORDIRECT</h3>
-  <hr>
-  <p>
-    <b>BRIEF:</b> Construct a full-stack application for real-time torrent downloading and management. Features a dynamic frontend with live status updates via WebSockets. Deployed on Render with persistent storage.
-    <br><br>
-    <b>TECH DEPLOYED:</b>
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io"/>
-  </p>
-  <p align="center"><b><a href="https://github.com/devilGamer5802/TorDirect">[ LAUNCH MISSION ]</a></b></p>
-</td>
-<td width="50%" style="padding: 10px;">
-  </td>
-</tr>
-</table>
 
----
+<h2 align="center">:: Acquired Intel (Certifications) ::</h2>
 
-<h2 align="center">[ GLOBAL ACTIVITY GRID ]</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilgamer5802&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" width="70%"/>
-  <br>
-  <img src="https://profile-counter.glitch.me/devilgamer5802/map.svg" alt="Visitor Map"/>
+  🏅 <a href="[LINK_TO_META_ANDROID_CERT_IF_AVAILABLE]" target="_blank">Meta Android Developer Professional Certificate</a> (Coursera)<br>
+  🏅 <a href="[LINK_TO_META_DB_CERT_IF_AVAILABLE]" target="_blank">Meta Database Engineer Professional Certificate</a> (Coursera)<br>
+  🏅 <a href="https://coursera.org/share/952ecaad6c3a949fb9afff653f833dbf" target="_blank">Generative AI for Everyone</a> (Coursera)
 </p>
 
+
 ---
+
+
+<h2 align="center">:: Contribution Grid ::</h2>
+
+<p align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilgamer5802&bg_color=0D1117&color=79ff97&line=FF0000&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
+
+---
+
+
+<h2 align="center">:: Establish Connection ::</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/harshaniltuti" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>  
+  <a href="https://twitter.com/harshtuti" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>  
+  <a href="https://stackoverflow.com/users/30454495/devilgamer5802" target="_blank"><img align="center" src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>  
+  <a href="https://kaggle.com/HARSHANILTUTI" target="_blank"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>  
+</p>
+
+<br><br> 
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/devilgamer5802" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" height="50" alt="Buy Me A Coffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" height="50" alt="Buy Me A Coffee" /> 
+    
   </a>
 </p>
