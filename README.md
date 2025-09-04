@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <i>Third-year B.Tech Computer Science student @ <strong>BIT Mesra</strong> 🚀 | Passionate about building scalable applications & exploring Cloud/ML.<br>
+  <i>Final-year B.Tech Computer Science student @ <strong>BIT Mesra</strong> 🚀 | Passionate about building scalable applications & exploring Cloud/ML.<br>
   Leveraging Java, Python, Kotlin & Cloud platforms (AWS/GCP) to solve complex problems.<br>
   Finding the optimal path with Dijkstra... both in code and in reaching goals!</i> 
 </p>
