@@ -174,6 +174,3 @@
 - **Daily Practice** — recent activity snapshot: 📚 ✍️ 🔁 ✨  
 - **Milestones** — showcase professional achievements and certificates (add images/links as you earn them).
 
----
-
-*Prepared with a focus on clarity, professional presentation, and a clean dark aesthetic.*
