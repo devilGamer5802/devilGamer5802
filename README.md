@@ -1,167 +1,169 @@
 <p align="center">
-  <img src="IMG_20240628_002936.jpg" alt="Harsh Anil Tuti - ROG Inspired Banner" width="100%"/>
+  <img src="IMG_20240628_002936.jpg" alt="Harsh Anil Tuti - Banner" width="100%"/>
 </p>
 
 <div align="center">
   <h1>ＨΛＲＳＨ&nbsp; ΛＮＩＬ&nbsp; ＴＵＴＩ</h1>
-  <a href="https://github.com/devilgamer5802">
-    <img src="https://komarev.com/ghpvc/?username=devilgamer5802&label=PROFILE%20VIEWS&color=FF0000&style=for-the-badge" alt="Profile Views"/>
-  </a>
+  <p>
+    Final-year Computer Science student at BIT Mesra with a passion for building scalable, intelligent systems.
+  </p>
 </div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Third-year+B.Tech+CSE+Student+%40+BIT+Mesra;Cloud+%26+Machine+Learning+Enthusiast;Full-Stack+%26+Android+Developer" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Cloud+%26+Machine+Learning+Engineer;Full-Stack+%26+Android+Developer;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/harshaniltuti" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-  <a href="https://twitter.com/harshtuti" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>&nbsp;
-  <a href="https://stackoverflow.com/users/30454495/devilgamer5802" target="_blank"><img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>&nbsp;
-  <a href="https://kaggle.com/HARSHANILTUTI" target="_blank"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>&nbsp;
-  <a href="mailto:harshaniltuti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/harshaniltuti" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://twitter.com/harshtuti" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>&nbsp;
+  <a href="mailto:harshaniltuti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+  <a href="https://stackoverflow.com/users/30454495/devilgamer5802" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>&nbsp;
+  <a href="https://kaggle.com/HARSHANILTUTI" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>&nbsp;
 </p>
 
 ---
 
-<h2 align="center">📊 My GitHub Stats 📊</h2>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=devilgamer5802&show_icons=true&theme=dark&border_color=ff0000&title_color=ff0000&icon_color=ffffff&text_color=ffffff" alt="Harsh's GitHub Stats"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilgamer5802&layout=compact&theme=dark&border_color=ff0000&title_color=ff0000&text_color=ffffff" alt="Top Languages"/>
-  </a>
-</p>
+## About Me
+
+<table>
+  <tr>
+    <td valign="top" width="65%">
+      I am a final-year Computer Science engineering student specializing in <strong>Cloud Computing</strong> and <strong>Machine Learning</strong>. My goal is to architect and develop robust, full-stack applications that solve real-world problems. I thrive on learning new technologies and applying them to create efficient and impactful software solutions.
+      <br><br>
+      - 🎓 &nbsp;B.Tech in Computer Science from <strong>Birla Institute of Technology, Mesra</strong>.
+      <br>
+      - 💻 &nbsp;Currently focused on enhancing my skills in <strong>Android Development</strong> and <strong>AI/ML model deployment</strong>.
+      <br>
+      - 🤝 &nbsp;Open to collaborating on open-source projects, particularly those involving cloud infrastructure or machine learning.
+    </td>
+    <td width="35%" align="center">
+      <img src="https://raw.githubusercontent.com/devMETRO/devMETRO/master/assets/developer.gif" width="100%" alt="Developer GIF">
+    </td>
+  </tr>
+</table>
 
 ---
 
-<h2 align="center">🚀 About Me 🚀</h2>
-<p align="center">
-  A third-year Computer Science student on a mission to build scalable applications and dive deep into the world of Cloud and Machine Learning.
-</p>
+## Tech Stack
 
-- 🎓 Currently pursuing a **B.Tech in Computer Science & Engineering** at **Birla Institute of Technology, Mesra**.
-- 💻 I love leveraging **Java, Python, and Kotlin** with cloud platforms like **AWS & GCP** to solve complex problems.
-- 🧠 Exploring the realms of **Deep Learning / Machine Learning** and building intelligent systems.
-- 🔭 Actively developing **[iCalc](https://github.com/devilGamer5802/iCALC)**, an advanced Kotlin calculator inspired by iOS 18's Math Notes.
-- 🤝 Open to collaborating on full-stack, mobile, or ML projects. Let's build something amazing!
-- ⚡ Fun Fact: This profile's genesis may involve peer pressure, but its evolution is pure passion!
-
----
-
-<h2 align="center">🛠️ My Tech Stack 🛠️</h2>
-
-<p align="center">
-  <strong>Languages:</strong><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-</p>
-
-<p align="center">
-  <strong>Frameworks & Libraries:</strong><br>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
-</p>
-
-<p align="center">
-  <strong>Tools & Platforms:</strong><br>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io"/>
-</p>
+<table width="100%">
+  <tr>
+    <td align="center">
+      <h4>Languages</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+      </p>
+    </td>
+    <td align="center">
+      <h4>Frameworks & Libraries</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h4>Cloud & Databases</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+      </p>
+    </td>
+    <td align="center">
+      <h4>Developer Tools</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<h2 align="center">⚡ Featured Projects ⚡</h2>
+## My Projects
+
 <table width="100%" align="center">
-<tr>
+<tr valign="top">
+<td width="50%">
 
-<td width="33%" valign="top">
-<div align="center">
-  
-### 📱 iCALC
-<p>An advanced calculator replicating iOS 18's Math Notes with dynamic expression solving and real-time currency conversion APIs.</p>
+###  проекта (Project Alpha)
+*Brief description of your new project. Highlight the key feature or the problem it solves. Keep it to one or two sentences.*
+<br><br>
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+<a href="[link-to-your-new-repo-1]" target="_blank">View Repository &rarr;</a>
+
+</td>
+<td width="50%">
+
+### Nebula Android App
+*This is where you describe your second flagship project. What makes it special? Mention the architecture or a cool library you used.*
+<br><br>
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/API-232F3E?style=for-the-badge&logo=api-gateway&logoColor=white" alt="API"/>
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
-<a href="https://github.com/devilGamer5802/iCALC"><strong>View on GitHub &rarr;</strong></a>
+<a href="[link-to-your-new-repo-2]" target="_blank">View Repository &rarr;</a>
 
-</div>
 </td>
+</tr>
+<tr valign="top">
+<td width="50%">
 
-<td width="33%" valign="top">
-<div align="center">
-  
-### ☁️ AI Climate Monitoring
-<p>LSTM Neural Network (R2 Score: 0.93) for temperature forecasting and anomaly detection in time-series climate data.</p>
+### Vision AI Platform
+*Describe your best machine learning or AI project. Mention the model used, the dataset, or the accuracy achieved.*
+<br><br>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
 </p>
-<a href="https://github.com/devilGamer5802/AI-Climate-Monitoring-and-Mitigation-System"><strong>View on GitHub &rarr;</strong></a>
-  
-</div>
-</td>
+<a href="[link-to-your-new-repo-3]" target="_blank">View Repository &rarr;</a>
 
-<td width="33%" valign="top">
-<div align="center">
-  
-### 🌐 TorDirect
-<p>Full-stack app for real-time torrent downloading and management, featuring a dynamic frontend with live status updates.</p>
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io"/>
-</p>
-<a href="https://github.com/devilGamer5802/TorDirect"><strong>View on GitHub &rarr;</strong></a>
-  
-</div>
 </td>
+<td width="50%">
 
+*(Add your fourth project here or leave this space for future work!)*
+
+</td>
 </tr>
 </table>
 
 ---
 
-<h2 align="center">🏅 Certifications 🏅</h2>
-<p align="center">
-  🏆 <a href="[LINK_TO_META_ANDROID_CERT_IF_AVAILABLE]" target="_blank">Meta Android Developer Professional Certificate</a> (Coursera)<br>
-  🏆 <a href="[LINK_TO_META_DB_CERT_IF_AVAILABLE]" target="_blank">Meta Database Engineer Professional Certificate</a> (Coursera)<br>
-  🏆 <a href="https://coursera.org/share/952ecaad6c3a949fb9afff653f833dbf" target="_blank">Generative AI for Everyone</a> (Coursera)
-</p>
+## Contribution Graph & Visitor Map
+
+<table width="100%">
+<tr>
+<td width="65%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devilgamer5802&bg_color=0d1117&color=00BFFF&line=00BFFF&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</td>
+<td width="35%" align="center">
+<img src="https://profile-counter.glitch.me/devilgamer5802/map.svg" alt="Visitor Map"/>
+</td>
+</tr>
+</table>
 
 ---
-
-<h2 align="center">📈 Contribution Graph 📈</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilgamer5802&bg_color=0D1117&color=79ff97&line=FF0000&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
-
----
-
 <p align="center">
   <a href="https://www.buymeacoffee.com/devilgamer5802" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" height="50" alt="Buy Me A Coffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
   </a>
 </p>
