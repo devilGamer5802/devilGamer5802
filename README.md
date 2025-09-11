@@ -165,12 +165,3 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" height="50" alt="Buy Me A Coffee" /> 
   </a>
 </p>
-
----
-
-<h2 align="center">:: Professional Progress ::</h2>
-
-- **Progress Score** — `60%`  (Indicator of progress toward a professional learning objective — update manually.)  
-- **Daily Practice** — recent activity snapshot: 📚 ✍️ 🔁 ✨  
-- **Milestones** — showcase professional achievements and certificates (add images/links as you earn them).
-
