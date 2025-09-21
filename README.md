@@ -22,7 +22,7 @@
 
 <h3 align="center">Main skills</h3>
 <div>
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,py,c,js,html,css,androidstudio,nextjs,nodejs,prisma,docker,git,github,mysql,postgres,firebase)](https://skillicons.dev)
+[[My Skills](https://skillicons.dev/icons?i=kotlin,java,py,c,js,html,css,androidstudio,nextjs,nodejs,prisma,docker,git,github,mysql,postgres,firebase)](https://skillicons.dev)
 </div>
 
 ---
