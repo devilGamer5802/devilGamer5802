@@ -3,10 +3,9 @@
 </p>
 
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">HARSH ANIL TUTI</h1></summary>
-    <img src="20220924_184557.jpg" alt="Harsh Anil Tuti" height="50%" width="30%"/>
-  </ul>
+    <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFFFFF&width=435&lines=Hello%2C+it's+Harsh+Anil+Tuti;Software+Developer;Android+%26+Web+Developer" alt="Software Developer & Android & Web Developer"/>
+</a>
 </div>
 
 <p align="center">
