@@ -21,9 +21,9 @@
 <h2 align="center">Skills & Tools</h2>
 
 <h3 align="center">Main skills</h3>
-<div>
-[![My Skills](https://skillicons.dev/icons?i=kotlin,nodejs,prisma,docker,git,github,mysql,postgres,firebase)](https://skillicons.dev)
-</div>
+
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,py,sql,c,js,html,css,androidstudio,nextjs,nodejs,prisma,docker,git,github,mysql,postgres,firebase)](https://skillicons.dev)
+
 
 ---
 <h2 align="center">Featured Projects</h2>
