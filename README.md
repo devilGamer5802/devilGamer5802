@@ -22,24 +22,7 @@
 
 <h3 align="center">Main skills</h3>
 <div>
-  [![My Skills](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=sql)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=prisma)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,py,sql,c,js,html,css,androidstudio,nextjs,nodejs,prisma,docker,git,github,mysql,postgres,firebase)](https://skillicons.dev)
 </div>
 
 ---
