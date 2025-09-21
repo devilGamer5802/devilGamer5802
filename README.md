@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="IMG_20240628_002936.jpg" alt="Harsh Anil Tuti - ROG Inspired Banner" width="100%"/> 
+  <img src="IMG_20240628_002936.jpg" alt="Harsh Anil Tuti - ROG Inspired Banner" width="70%"/> 
 </p>
 
 <div id="user-content-toc">
