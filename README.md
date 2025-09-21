@@ -21,7 +21,26 @@
 <h2 align="center">Skills & Tools</h2>
 
 <h3 align="center">Main skills</h3>
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,py,sql,c,js,html,css,androidstudio,nextjs,nodejs,prisma,docker,git,github,mysql,postgres,firebase)](https://skillicons.dev)
+<div>
+  [![My Skills](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=sql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=prisma)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
+</div>
 
 ---
 <h2 align="center">Featured Projects</h2>
@@ -32,9 +51,9 @@
       <h3 align="center">🤖 NoFrontend - AI Website Builder</h3>
       <p align="center">(AI-driven | Full-Stack | Neon PostgreSQL | tRPC)</p>
       <ul>
-        [cite_start]<li>Achieved 50% faster prototype generation with AI-driven code reviews and self-correction[cite: 16].</li>
-        [cite_start]<li>Reduced frontend and backend development time by an estimated 40%[cite: 17].</li>
-        [cite_start]<li>Delivered a scalable application capable of handling a 20% increase in user base[cite: 18].</li>
+        <li>Achieved 50% faster prototype generation with AI-driven code reviews and self-correction.</li>
+        <li>Reduced frontend and backend development time by an estimated 40%.</li>
+        <li>Delivered a scalable application capable of handling a 20% increase in user base.</li>
         <li><em>Status: Completed</em></li>
       </ul>
     </td>
@@ -42,18 +61,18 @@
       <h3 align="center">📱 CALC - Android Calculator</h3>
       <p align="center">(Kotlin | Jetpack Compose | APIs)</p>
       <ul>
-        [cite_start]<li>Built an advanced Android calculator app in Kotlin replicating iOS 18's Math Notes functionality and achieving 95% accuracy in dynamic expression solving[cite: 20].</li>
-        [cite_start]<li>Integrated real-time currency conversion using APIs, enabling live financial data computation[cite: 21].</li>
-        [cite_start]<li>Engineered adaptive UI with Material Design 3 and Jetpack Compose, delivering a seamless experience[cite: 22].</li>
+        <li>Built an advanced Android calculator app in Kotlin replicating iOS 18's Math Notes functionality and achieving 95% accuracy in dynamic expression solving.</li>
+        <li>Integrated real-time currency conversion using APIs, enabling live financial data computation.</li>
+        <li>Engineered adaptive UI with Material Design 3 and Jetpack Compose, delivering a seamless experience.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">🌐 TorDirect - Torrent Downloader</h3>
       <p align="center">(Node.js | Express | WebTorrent | Socket.IO | Render)</p>
       <ul>
-        [cite_start]<li>Full-stack web application using Node.js, Express, and Web Torrent for real-time torrent downloading and management[cite: 23].</li>
-        [cite_start]<li>Implemented a dynamic frontend with JavaScript and Socket.IO to display live torrent status, interactive file listings, and trigger streaming actions[cite: 24].</li>
-        [cite_start]<li>Deployed and configured on the Render cloud platform with persistent disk storage and environment variables for reliable operation[cite: 25].</li>
+        <li>Full-stack web application using Node.js, Express, and Web Torrent for real-time torrent downloading and management.</li>
+        <li>Implemented a dynamic frontend with JavaScript and Socket.IO to display live torrent status, interactive file listings, and trigger streaming actions.</li>
+        <li>Deployed and configured on the Render cloud platform with persistent disk storage and environment variables for reliable operation.</li>
         <li><em>Status: Seeking Contributions/Improvements</em></li>
       </ul>
     </td>
@@ -63,9 +82,9 @@
 ---
 <h2 align="center">Certifications</h2>
 <p align="center">
-  [cite_start]🏅 **Programming Fundamentals in Kotlin** - Meta [cite: 43]<br>
-  [cite_start]🏅 **Database Structures and Management with MySQL** - Meta [cite: 44]<br>
-  [cite_start]🏅 **Generative AI for Everyone** - DeepLearning.AI [cite: 45]
+  🏅 **Programming Fundamentals in Kotlin** - Meta<br>
+  🏅 **Database Structures and Management with MySQL** - Meta<br>
+  🏅 **Generative AI for Everyone** - DeepLearning.AI
 </p>
 
 ---
